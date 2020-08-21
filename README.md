@@ -5,7 +5,7 @@ A curated list of amazingly awesome stuff on Agent Based Modeling
 ## Books
 
 [Agent-based and Individual-based Modeling: A Practical Introduction](http://www.railsback-grimm-abm-book.com/)
-[see also](https://press.princeton.edu/books/paperback/9780691096667/individual-based-modeling-and-ecology)
+[>see also](https://press.princeton.edu/books/paperback/9780691096667/individual-based-modeling-and-ecology)
 
 [An Introduction to Agent-Based Modeling - Modeling Natural, Social, and Engineered Complex Systems with NetLogo](https://mitpress.mit.edu/books/introduction-agent-based-modeling)
 
@@ -29,6 +29,8 @@ Many technical or scientific journals relate to ABM techniques which cannot be a
 
 ## Internet Resources & Specialized Search Engine Links
 
+Resources going beyond simple Googling
+
 [Wikiwand](https://www.wikiwand.com/en/Agent-based_model) & [Wikipedia](https://en.wikipedia.org/wiki/Agent-based_model)
 
 [Sparrho](https://www.sparrho.com/search/agent%20based%20modeling/)
@@ -41,6 +43,8 @@ Many technical or scientific journals relate to ABM techniques which cannot be a
 
 ## Open Source Frameworks & Software
 
+Several more can be found in the literature, but often non updated or maintained
+
 [Project Mesa](https://github.com/projectmesa/mesa)
 
 [Agent Maps](https://github.com/noncomputable/AgentMaps)
@@ -48,24 +52,24 @@ Many technical or scientific journals relate to ABM techniques which cannot be a
 [Agent Script](https://github.com/backspaces/agentscript0)
 
 [Julia Dynamics](https://github.com/JuliaDynamics/Agents.jl)
-[see also](https://julialang.org/)
+[>see also](https://julialang.org/)
 
 [GAMA](https://gama-platform.github.io/)
 
 [jCrowdSimulator](https://github.com/FraunhoferIVI/jCrowdSimulator)
 
 [SUMO](https://en.wikipedia.org/wiki/Simulation_of_Urban_Mobility)
-https://sumo.dlr.de/docs/index.html
+[>see also](https://sumo.dlr.de/docs/index.html)
 
 [Jupedsim](http://www.jupedsim.org)
 
 [MatSim - Multi Agent Transportation](https://www.matsim.org)
 
 [Transims](https://en.wikipedia.org/wiki/Transims)
-https://code.google.com/archive/p/transims/
+[>see also](https://code.google.com/archive/p/transims/)
 
 [Chromosim](https://github.com/sylvain-faure/cromosim)
-[see also](http://www.cromosim.fr)
+[>see also](http://www.cromosim.fr)
 
 [Crowddynamics](https://github.com/jaantollander/crowddynamics)
 
@@ -74,7 +78,7 @@ https://code.google.com/archive/p/transims/
 [MomenTUMv2](https://github.com/tumcms/MomenTUM)
 
 [SimMobility](https://its.mit.edu/software/simmobility)
-[see also](https://github.com/smart-fm/simmobility-prod)
+[>see also](https://github.com/smart-fm/simmobility-prod)
 
 [Cormas](http://cormas.cirad.fr/en/outil/outil.htm)
 
@@ -93,6 +97,8 @@ https://code.google.com/archive/p/transims/
 [IDM](https://www.idmod.org/documentation)
 
 [Insight Maker](https://insightmaker.com)
+
+[Netlogo](https://ccl.northwestern.edu/netlogo/)
 
 ## Commercial Software
 
@@ -119,7 +125,7 @@ https://code.google.com/archive/p/transims/
 [TrafficWare Synchro+SimTraffic](http://www.trafficware.com/synchro.html)
 
 [TSIS Corsim](https://en.wikipedia.org/wiki/CORSIM)
-[see also](https://mctrans.ce.ufl.edu/mct/)
+[>see also](https://mctrans.ce.ufl.edu/mct/)
 
 [Ventana – VensIm](https://vensim.com)
 
