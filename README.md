@@ -43,7 +43,7 @@ Resources going beyond simple Googling
 
 ## Blogs
 
-[Agent Based Models](http://www.agent-based-models.com/blog/)
+[Agent Based Models](http://www.agent-based-models.com/blog/) Not actively maintained since 2013
 
 [Causality Labs](https://causality-labs.org)
 
