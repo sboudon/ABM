@@ -5,7 +5,7 @@ A curated list of amazingly awesome stuff on Agent Based Modeling
 ## Books
 
 [Agent-based and Individual-based Modeling: A Practical Introduction](http://www.railsback-grimm-abm-book.com/)
-https://press.princeton.edu/books/paperback/9780691096667/individual-based-modeling-and-ecology
+[see also](https://press.princeton.edu/books/paperback/9780691096667/individual-based-modeling-and-ecology(
 
 [An Introduction to Agent-Based Modeling - Modeling Natural, Social, and Engineered Complex Systems with NetLogo](https://mitpress.mit.edu/books/introduction-agent-based-modeling)
 
@@ -48,9 +48,9 @@ Many technical or scientific journals relate to ABM techniques which cannot be a
 [Agent Script](https://github.com/backspaces/agentscript0)
 
 [Julia Dynamics](https://github.com/JuliaDynamics/Agents.jl)
-https://julialang.org/
+[see also](https://julialang.org/)
 
-[GAMA]https://gama-platform.github.io/)
+[GAMA](https://gama-platform.github.io/)
 
 [jCrowdSimulator](https://github.com/FraunhoferIVI/jCrowdSimulator)
 
@@ -65,7 +65,7 @@ https://sumo.dlr.de/docs/index.html
 https://code.google.com/archive/p/transims/
 
 [Chromosim](https://github.com/sylvain-faure/cromosim)
-http://www.cromosim.fr
+[see also](http://www.cromosim.fr)
 
 [Crowddynamics](https://github.com/jaantollander/crowddynamics)
 
@@ -74,7 +74,7 @@ http://www.cromosim.fr
 [MomenTUMv2](https://github.com/tumcms/MomenTUM)
 
 [SimMobility](https://its.mit.edu/software/simmobility)
-https://github.com/smart-fm/simmobility-prod
+[see also](https://github.com/smart-fm/simmobility-prod)
 
 [Cormas](http://cormas.cirad.fr/en/outil/outil.htm)
 
@@ -119,7 +119,7 @@ https://github.com/smart-fm/simmobility-prod
 [TrafficWare Synchro+SimTraffic](http://www.trafficware.com/synchro.html)
 
 [TSIS Corsim](https://en.wikipedia.org/wiki/CORSIM)
-[Corridor Simulation](https://mctrans.ce.ufl.edu/mct/)
+[see also](https://mctrans.ce.ufl.edu/mct/)
 
 [Ventana – VensIm](https://vensim.com)
 
