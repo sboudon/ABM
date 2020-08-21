@@ -1,8 +1,8 @@
-#Awesome Agent Based Modeling
+# Awesome Agent Based Modeling
 
 A curated list of amazingly awesome stuff on Agent Based Modeling
 
-##Books
+## Books
 
 [Agent-based and Individual-based Modeling: A Practical Introduction](http://www.railsback-grimm-abm-book.com/)
 https://press.princeton.edu/books/paperback/9780691096667/individual-based-modeling-and-ecology
@@ -19,7 +19,7 @@ https://press.princeton.edu/books/paperback/9780691096667/individual-based-model
 
 [Modeling and Simulation of Complex Systems -A Framework for Efficient Agent-Based Modeling and Simulation](https://www.springer.com/gp/book/9783658075286)
 
-##Journals
+## Journals
 
 Many technical or scientific journals relate to ABM techniques which cannot be all cited here focusing on the most prolific titles in that field
 
@@ -27,7 +27,7 @@ Many technical or scientific journals relate to ABM techniques which cannot be a
 
 [Arxiv](https://arxiv.org/search/?query=Agent+Based+Modeling&searchtype=all)
 
-##Internet Resources & Specialized Search Engine Links
+## Internet Resources & Specialized Search Engine Links
 
 [Wikiwand](https://www.wikiwand.com/en/Agent-based_model) & [Wikipedia](https://en.wikipedia.org/wiki/Agent-based_model)
 
@@ -39,7 +39,7 @@ Many technical or scientific journals relate to ABM techniques which cannot be a
 
 [COMSES](https://www.comses.net/resources/modeling-frameworks/)
 
-##Open Source Frameworks & Software
+## Open Source Frameworks & Software
 
 [Project Mesa](https://github.com/projectmesa/mesa)
 
@@ -66,8 +66,8 @@ https://code.google.com/archive/p/transims/
 
 [Chromosim](https://github.com/sylvain-faure/cromosim)
 http://www.cromosim.fr
-(
-[Crowddynamics]https://github.com/jaantollander/crowddynamics)
+
+[Crowddynamics](https://github.com/jaantollander/crowddynamics)
 
 [FDS Evac](https://github.com/firemodels/fds)
 
@@ -94,7 +94,7 @@ https://github.com/smart-fm/simmobility-prod
 
 [Insight Maker](https://insightmaker.com)
 
-##Commercial Software
+## Commercial Software
 
 [Accu:rate - Crowd:it](https://www.accu-rate.de/en/)
 
@@ -118,8 +118,8 @@ https://github.com/smart-fm/simmobility-prod
 
 [TrafficWare Synchro+SimTraffic](http://www.trafficware.com/synchro.html)
 
-[TSIS Corsim - Corridor Simulation](https://en.wikipedia.org/wiki/CORSIM)
-https://mctrans.ce.ufl.edu/mct/
+[TSIS Corsim](https://en.wikipedia.org/wiki/CORSIM)
+[Corridor Simulation](https://mctrans.ce.ufl.edu/mct/)
 
 [Ventana – VensIm](https://vensim.com)
 
