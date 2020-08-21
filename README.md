@@ -41,6 +41,12 @@ Resources going beyond simple Googling
 
 [COMSES](https://www.comses.net/resources/modeling-frameworks/)
 
+## Blogs
+
+[Agent Based Models](http://www.agent-based-models.com/blog/)
+
+[Causality Labs](https://causality-labs.org)
+
 ## Open Source Frameworks & Software
 
 Several more can be found in the literature, but often non updated or maintained
