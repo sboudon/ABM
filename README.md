@@ -5,7 +5,7 @@ A curated list of amazingly awesome stuff on Agent Based Modeling
 ## Books
 
 [Agent-based and Individual-based Modeling: A Practical Introduction](http://www.railsback-grimm-abm-book.com/)
-[see also](https://press.princeton.edu/books/paperback/9780691096667/individual-based-modeling-and-ecology(
+[see also](https://press.princeton.edu/books/paperback/9780691096667/individual-based-modeling-and-ecology)
 
 [An Introduction to Agent-Based Modeling - Modeling Natural, Social, and Engineered Complex Systems with NetLogo](https://mitpress.mit.edu/books/introduction-agent-based-modeling)
 
