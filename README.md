@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 # Awesome Agent Based Modeling
 
 A curated list of amazingly awesome stuff on Agent Based Modeling
