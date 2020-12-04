@@ -49,6 +49,8 @@ Resources going beyond simple Googling
 
 [Causality Labs](https://causality-labs.org)
 
+[Benjampin Schumann](https://www.benjamin-schumann.com/blog)
+
 ## Open Source Frameworks & Software
 
 Several more can be found in the literature, but often non updated or maintained
@@ -136,6 +138,3 @@ Several more can be found in the literature, but often non updated or maintained
 [>see also](https://mctrans.ce.ufl.edu/mct/)
 
 [Ventana – VensIm](https://vensim.com)
-
-
-
