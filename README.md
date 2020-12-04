@@ -49,7 +49,7 @@ Resources going beyond simple Googling
 
 [Causality Labs](https://causality-labs.org)
 
-[Benjampin Schumann](https://www.benjamin-schumann.com/blog)
+[Benjamin Schumann](https://www.benjamin-schumann.com/blog)
 
 ## Open Source Frameworks & Software
 
