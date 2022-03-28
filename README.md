@@ -1,8 +1,9 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-# Awesome Agent Based Modeling
+# Awesome Agent Based Modeling 
+## with a focus on modelling issues related to transport and people movements
 
-A curated list of amazingly awesome stuff on Agent Based Modeling
+A curated list of good stuff on Agent Based Modeling
 
 ## Books
 
@@ -21,17 +22,13 @@ A curated list of amazingly awesome stuff on Agent Based Modeling
 
 [Modeling and Simulation of Complex Systems -A Framework for Efficient Agent-Based Modeling and Simulation](https://www.springer.com/gp/book/9783658075286)
 
-## Journals
+## Journals & Specialized Search Engine Links
 
-Many technical or scientific journals relate to ABM techniques which cannot be all cited here focusing on the most prolific titles in that field
+Many technical or scientific journals relate to ABM techniques
 
 [Complex Adaptive Systems Modeling](https://link.springer.com/journal/40294)
 
-[Arxiv](https://arxiv.org/search/?query=Agent+Based+Modeling&searchtype=all)
-
-## Internet Resources & Specialized Search Engine Links
-
-Resources going beyond simple Googling
+[OSF Preprints](https://osf.io/preprints/discover?q=Agent%20Based%20Modeling)
 
 [Wikiwand](https://www.wikiwand.com/en/Agent-based_model) & [Wikipedia](https://en.wikipedia.org/wiki/Agent-based_model)
 
@@ -43,15 +40,11 @@ Resources going beyond simple Googling
 
 [COMSES](https://www.comses.net/resources/modeling-frameworks/)
 
-## Blogs
-
-[Agent Based Models](http://www.agent-based-models.com/blog/) Not actively maintained since 2013
-
-[Causality Labs](https://causality-labs.org)
+[Academia.edu](https://www.academia.edu/search?q=Agent%20Based%20Modeling)
 
 [Benjamin Schumann](https://www.benjamin-schumann.com/blog)
 
-## Open Source Frameworks & Software
+## Open Source Frameworks, Libraries & Software
 
 Several more can be found in the literature, but often non updated or maintained
 
@@ -59,7 +52,7 @@ Several more can be found in the literature, but often non updated or maintained
 
 [Agent Maps](https://github.com/noncomputable/AgentMaps)
 
-[Agent Script](https://github.com/backspaces/agentscript0)
+[Agent Script](https://github.com/backspaces/agentscript0) Not very active
 
 [Julia Dynamics](https://github.com/JuliaDynamics/Agents.jl)
 [>see also](https://julialang.org/)
@@ -68,8 +61,7 @@ Several more can be found in the literature, but often non updated or maintained
 
 [jCrowdSimulator](https://github.com/FraunhoferIVI/jCrowdSimulator)
 
-[SUMO](https://en.wikipedia.org/wiki/Simulation_of_Urban_Mobility)
-[>see also](https://sumo.dlr.de/docs/index.html)
+[SUMO](https://sumo.dlr.de/docs/index.html)
 
 [Jupedsim](http://www.jupedsim.org)
 
@@ -79,24 +71,23 @@ Several more can be found in the literature, but often non updated or maintained
 [>see also](https://code.google.com/archive/p/transims/)
 
 [Chromosim](https://github.com/sylvain-faure/cromosim)
-[>see also](http://www.cromosim.fr)
+[>see also](http://www.cromosim.fr) Not very active
 
-[Crowddynamics](https://github.com/jaantollander/crowddynamics)
+[Crowddynamics](https://github.com/jaantollander/crowddynamics) Not very active
 
 [FDS Evac](https://github.com/firemodels/fds)
 
 [MomenTUMv2](https://github.com/tumcms/MomenTUM)
 
-[SimMobility](https://its.mit.edu/software/simmobility)
-[>see also](https://github.com/smart-fm/simmobility-prod)
+[SimMobility](https://github.com/smart-fm/simmobility-prod) Not very active / MIT Site reference closed
 
-[Cormas](http://cormas.cirad.fr/en/outil/outil.htm)
+[Cormas](http://cormas.cirad.fr/en/outil/outil.htm) Not very active
 
-[Crafty](https://www.wiki.ed.ac.uk/display/CRAFTY/Home)
+[Crafty](https://www.wiki.ed.ac.uk/display/CRAFTY/Home) Not very active
 
 [DEV-Suite](https://acims.asu.edu/software/devs-suite/)
 
-[EcoLab](http://ecolab.sourceforge.net)
+[EcoLab](http://ecolab.sourceforge.net) Not very active
 
 [Envision](http://envision.bioe.orst.edu)
 
@@ -110,7 +101,7 @@ Several more can be found in the literature, but often non updated or maintained
 
 [Netlogo](https://ccl.northwestern.edu/netlogo/)
 
-## Commercial Software
+[Simudyne](https://simudyne.com)
 
 [Accu:rate - Crowd:it](https://www.accu-rate.de/en/)
 
@@ -132,9 +123,9 @@ Several more can be found in the literature, but often non updated or maintained
 
 [SimWalk](https://www.simwalk.com/index.html)
 
-[TrafficWare Synchro+SimTraffic](http://www.trafficware.com/synchro.html)
-
 [TSIS Corsim](https://en.wikipedia.org/wiki/CORSIM)
-[>see also](https://mctrans.ce.ufl.edu/mct/)
+[>see also](https://mctrans.ce.ufl.edu)
 
 [Ventana – VensIm](https://vensim.com)
+
+[TrafficWare](https://www.trafficware.com)
